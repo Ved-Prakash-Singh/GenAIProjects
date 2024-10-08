@@ -4,3 +4,5 @@ absl-py==2.1.0
 langchain
 langchain-community
 transformers
+chains
+langchain_groq
