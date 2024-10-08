@@ -1,3 +1,4 @@
+streamlit
 about-time==4.2.1
 absl-py==2.1.0
 langchain
