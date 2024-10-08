@@ -243,7 +243,7 @@ multiprocess @ file:///C:/ci_311/multiprocess_1676442808395/work
 munkres==1.1.4
 mypy-extensions @ file:///C:/b/abs_8f7xiidjya/croot/mypy_extensions_1695131051147/work
 narwhals==1.6.0
--e git+https://github.com/google-research/nasbench@b94247037ee470418a3e56dcb83814e9be83f3a8#egg=nasbench
+nasbench
 navigator-updater @ file:///C:/b/abs_895otdwmo9/croot/navigator-updater_1695210220239/work
 nbclassic @ file:///C:/b/abs_c8_rs7b3zw/croot/nbclassic_1681756186106/work
 nbclient @ file:///C:/ci_311/nbclient_1676425195918/work
